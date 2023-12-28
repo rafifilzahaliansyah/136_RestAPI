@@ -12,4 +12,5 @@ data class Kontak(
     val email: String,
     @SerialName(value = "nohp")
     val nohp: String,
+
 )
